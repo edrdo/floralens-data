@@ -1,3 +1,5 @@
+![](https://zenodo.org/badge/DOI/10.5281/zenodo.10639702.svg)
+
 # Floralens datasets
 
 This repository provides companion datasets to "_Floralens: a Deep Learning Model for the Portuguese Native Flora_".
