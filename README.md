@@ -6,9 +6,10 @@ This repository provides companion datasets to "_Floralens: a Deep Learning Mode
 
 Dataset | Description | # Species | # Images
 --------|-------------|-----------|---------
-Floralens dataset | Images used for training and testing the Floralens model. | ... | ...
-Wikipedia dataset | Wikipedia images | ... | ...
-PlantCLEF dataset | Images from the PlantCLEF dataset | ... | ...
+Floralens dataset | Images used for training and testing the Floralens model. | 1,678 | 293,601
+PlantCLEF dataset | Images from the PlantCLEF dataset | 1,593 | 10,000
+Wikipedia dataset | Wikipedia images | 1,351 | 1,351
+
 
 ### Floralens dataset
 
