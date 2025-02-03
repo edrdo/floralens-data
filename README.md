@@ -2,7 +2,7 @@
 
 # Floralens datasets
 
-This repository provides companion datasets to "_Floralens: a Deep Learning Model for the Portuguese Native Flora_".
+This repository provides companion datasets to "[_Floralens: a Deep Learning Model for the Portuguese Native Flora_](https://arxiv.org/abs/2403.12072)", a paper draft by António Filgueiras, [Eduardo R. B. Marques](https://www.dcc.fc.up.pt/~edrdo), [Luís M. B. Lopes](https://www.dcc.fc.up.pt/~lblopes), Miguel Marques, and Hugo Silva from [CRACS / INESC-TEC](https://www.inesctec.pt/en/centres/cracs) and [DCC/FCUP](https://www.dcc.fc.up.pt).
 
 ## Labelled image datasets
 
