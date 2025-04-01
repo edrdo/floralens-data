@@ -13,9 +13,9 @@ The code and data artifacts are as follows:
 
 ## Notebooks
 
-Notebooks can be found in the [`notebooks`](https://github.com/edrdo/floralens-data/tree/main/notebooks) folder, and notebook-derived plot images can be found in [`notebooks/plot_images`](https://github.com/edrdo/floralens-data/tree/main/notebooks/plot_images).
+Notebooks can be found in the [`notebooks`](notebooks) folder, and notebook-derived plot images can be found in [`notebooks/plot_images`](notebooks/plot_images).
 
-- [Baseline results - precision and recall](tree/main/notebooks/Baseline_Precision_And_Recall.ipynb)
+- [Baseline results - precision and recall](notebooks/Baseline_Precision_And_Recall.ipynb)
 - ... list being updated ... work in progress ... 
 
 ## Labelled image datasets
