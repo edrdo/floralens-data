@@ -1,8 +1,22 @@
 [![](https://zenodo.org/badge/DOI/10.5281/zenodo.10639702.svg)](https://doi.org/10.5281/zenodo.10639702)
 
-# Floralens datasets
+# Floralens supplementary material
 
-This repository provides companion datasets to "[_Floralens: a Deep Learning Model for the Portuguese Native Flora_](https://arxiv.org/abs/2403.12072)", a paper draft by António Filgueiras, [Eduardo R. B. Marques](https://www.dcc.fc.up.pt/~edrdo), [Luís M. B. Lopes](https://www.dcc.fc.up.pt/~lblopes), Miguel Marques, and Hugo Silva from [CRACS / INESC-TEC](https://www.inesctec.pt/en/centres/cracs) and [DCC/FCUP](https://www.dcc.fc.up.pt).
+This repository provides supplementary material to "[_Floralens: a Deep Learning Model for the Portuguese Native Flora_](https://arxiv.org/abs/2403.12072)", a paper draft by António Filgueiras, [Eduardo R. B. Marques](https://www.dcc.fc.up.pt/~edrdo), [Luís M. B. Lopes](https://www.dcc.fc.up.pt/~lblopes), Miguel Marques, and Hugo Silva from [CRACS / INESC-TEC](https://www.inesctec.pt/en/centres/cracs) and [DCC/FCUP](https://www.dcc.fc.up.pt).
+
+The code and data artifacts are as follows:
+
+- Jupyter notebooks that derive all the plots of Section 4 ("Results") in the paper (see links to notebooks in list below)
+- the Floralens, PlantCLEF and Wikipedia datasets described in the paper, and;
+- Data files containing results derived using the Floralens model or through the Pl@ntNet API. 
+
+
+## Notebooks
+
+Notebooks can be found in the [`notebooks`](https://github.com/edrdo/floralens-data/tree/main/notebooks) folder, and notebook-derived plot images can be found in [`notebooks/plot_images`](https://github.com/edrdo/floralens-data/tree/main/notebooks/plot_images).
+
+- [Baseline results - precision and recall](tree/main/notebooks/Baseline_Precision_And_Recall.ipynb)
+- ... list being updated ... work in progress ... 
 
 ## Labelled image datasets
 
