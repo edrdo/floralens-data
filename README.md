@@ -24,7 +24,9 @@ Notebooks can be found in the [`notebooks`](notebooks) folder, and notebook-deri
 - [PlantCLEF/Wikipedia and genus/family results](notebooks/Species_Genus_And_Family_Results.ipynb) (sections 4.2 and 4.3)
 - [Multiple image classification](notebooks/Multiple_image_classification.ipynb) (section 4.4)
 - [Geographical filter](notebooks/Geographical_Filter.ipynb) (section 4.5)
-- [Pl@ntNet comparison](notebooks/PlantNetComparison.ipynb) (section 4.6)
+- Pl@ntNet comparison (section 4.6)
+    - [MRR value comparison](notebooks/PlantNetComparison.ipynb)
+    - [MRR value comparison by species' growth form and special status](notebooks/PlantNetComparison_GrowthForm_And_SpecialStatus.ipynb)
 
 
 ## Labelled image datasets
