@@ -1,8 +1,33 @@
 [![](https://zenodo.org/badge/DOI/10.5281/zenodo.10639702.svg)](https://doi.org/10.5281/zenodo.10639702)
 
-# Floralens datasets
+# Floralens supplementary material
 
-This repository provides companion datasets to "[_Floralens: a Deep Learning Model for the Portuguese Native Flora_](https://arxiv.org/abs/2403.12072)", a paper draft by António Filgueiras, [Eduardo R. B. Marques](https://www.dcc.fc.up.pt/~edrdo), [Luís M. B. Lopes](https://www.dcc.fc.up.pt/~lblopes), Miguel Marques, and Hugo Silva from [CRACS / INESC-TEC](https://www.inesctec.pt/en/centres/cracs) and [DCC/FCUP](https://www.dcc.fc.up.pt).
+This repository provides supplementary material to "[_Floralens: a Deep Learning Model for the Portuguese Native Flora_](https://arxiv.org/abs/2403.12072)", a paper draft by António Filgueiras, [Eduardo R. B. Marques](https://www.dcc.fc.up.pt/~edrdo), [Luís M. B. Lopes](https://www.dcc.fc.up.pt/~lblopes), Miguel Marques, and Hugo Silva from [CRACS / INESC-TEC](https://www.inesctec.pt/en/centres/cracs) and [DCC/FCUP](https://www.dcc.fc.up.pt).
+
+The code and data artifacts are as follows:
+
+- Jupyter notebooks that derive all the plots of Section 4 ("Results") in the paper (see links to notebooks in list below)
+- the Floralens, PlantCLEF and Wikipedia datasets described in the paper, and;
+- Data files containing results derived using the Floralens model or through the Pl@ntNet API. 
+
+
+## Notebooks
+
+Notebooks can be found in the [`notebooks`](notebooks) folder, and notebook-derived plot images used in the paper can be found in [`notebooks/plot_images`](notebooks/plot_images).
+
+- Baseline results (section 4.1 in the paper)
+    - [Precision and recall](notebooks/Baseline_Precision_And_Recall.ipynb)
+    - [Top-1, Top-5, MRR - overall and by data source ](notebooks/Baseline_Top1_Top5_And_MRR.ipynb)
+    - [Top-1, Top-5, MRR - boxplots](notebooks/Baseline_Top1_Top5_And_MRR-Boxplots.ipynb)
+    - [Top-1, Top-5, MRR - by growth form and species' special status](notebooks/Baseline_GrowthForm_And_SpecialStatus.ipynb)
+
+- [PlantCLEF/Wikipedia and genus/family results](notebooks/Species_Genus_And_Family_Results.ipynb) (sections 4.2 and 4.3)
+- [Multiple image classification](notebooks/Multiple_image_classification.ipynb) (section 4.4)
+- [Geographical filter](notebooks/Geographical_Filter.ipynb) (section 4.5)
+- Pl@ntNet comparison (section 4.6)
+    - [MRR value comparison](notebooks/PlantNetComparison.ipynb)
+    - [MRR value comparison by species' growth form and special status](notebooks/PlantNetComparison_GrowthForm_And_SpecialStatus.ipynb)
+
 
 ## Labelled image datasets
 
