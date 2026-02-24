@@ -116,8 +116,8 @@ PN'23 SWE | [floralens/flts\_pn23\_swe.tsv](floralens/flts_pn23_swe.tsv)
 Model | File 
 --------|-----------
 Floralens | [plantclef/plantclef_floralens.tsv](floralens/flts_floralens.tsv)
-PN'22 | [plantclef/plantclef_pn22.tsv](plantclef/flts_pn22.tsv)   
-PN'23 | [plantclef/plantclef_pn23.tsv](plantclef/flts_pn23.tsv)   
+PN'22 | [plantclef/plantclef_pn22.tsv](plantclef/plantclef_pn22.tsv)   
+PN'23 | [plantclef/plantclef_pn23.tsv](plantclef/plantclef_pn23.tsv)   
 PN'23 SWE | [plantclef/plantclef\_pn23\_swe.tsv](plantclef/plantclef_pn23_swe.tsv)
 
 ### Wikipedia
@@ -125,6 +125,6 @@ PN'23 SWE | [plantclef/plantclef\_pn23\_swe.tsv](plantclef/plantclef_pn23_swe.ts
 Model | File
 --------|-----------
 Floralens | [wikipedia/wikipedia_floralens.tsv](floralens/flts_floralens.tsv)
-PN'22 | [wikipedia/wikipedia_pn22.tsv](wikipedia/flts_pn22.tsv)
-PN'23 | [wikipedia/wikipedia_pn23.tsv](wikipedia/flts_pn23.tsv)
+PN'22 | [wikipedia/wikipedia_pn22.tsv](wikipedia/wikipedia_pn22.tsv)
+PN'23 | [wikipedia/wikipedia_pn23.tsv](wikipedia/wikipedia_pn23.tsv)
 PN'23 SWE | [wikipedia/wikipedia\_pn23\_swe.tsv](wikipedia/wikipedia_pn23_swe.tsv)
